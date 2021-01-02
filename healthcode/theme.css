@@ -1,0 +1,39 @@
+@import url(https://cdn.jsdelivr.net/gh/HowieHye/StaticFile/healthcode/index.min.css);
+
+.el-row {
+    margin-bottom: 20px
+}
+
+.el-col {
+    border-radius: 4px
+}
+
+.bg-purple-dark {
+    background: #99a9bf
+}
+
+.bg-purple {
+    background: #d3dce6
+}
+
+.bg-purple-light {
+    background: #e5e9f2
+}
+
+.grid-content {
+    border-radius: 4px;
+    min-height: 36px
+}
+
+.row-bg {
+    padding: 10px 0;
+    background-color: #f9fafc
+}
+
+.el-table .warning-row {
+    background: #fdf5e6
+}
+
+.el-table .success-row {
+    background: #f0f9eb
+}
